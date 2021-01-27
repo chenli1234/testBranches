@@ -1,0 +1,6 @@
+1/11
+1. ZIP (polygon) Field FeatureType, should domain TomTom_FEATTYP be appied?
+
+1. How to insure join to zip feature class from pdnm or plnm tables with records  by 'ON' of field NAMETYP, not 'PY’ or ‘PN'? Looks like the current process worked ok, because ‘ON’ records were always before ‘PY’ or ‘PN’?
+2. There is no WGS 84 to NAD 83 Harn Datum Transformation in current process. Should the whole database be updated by the Datum Transformation?
+3. Where to get the ZIP feature class 'Release version' field value 'TomTom MultiNet Post NAM 2020.12.000', from "file:///D:/SourceZIP/TomTom_202012/nam2020_12_000/documentation/mnp/release_notes/release_notes/index_mnp_nam_2020_12_000.html"?
